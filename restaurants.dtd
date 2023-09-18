@@ -1,0 +1,12 @@
+<!ELEMENT restaurants(res*)>
+
+<!ELEMENT res(id, city, close, cuisine, name, open)>
+<!ELEMENT id(#ID)>
+<!ELEMENT city(#PCDATA)>
+<!ELEMENT close(#PCDATA)>
+<!ELEMENT cuisine(#PCDATA)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT open(#PCDATA)>
+
+
+

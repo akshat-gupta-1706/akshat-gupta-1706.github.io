@@ -1,0 +1,34 @@
+{
+	"work_ex": [
+		{
+			"Title": "Team Lead & Product Co-owner",
+			"Company": "Dell Technologies",
+			"Location": "Austin, TX",
+			"Time": "2022-2023"
+		},
+		{
+			"Title": "Software Engineer",
+			"Company": "Dell Technologies",
+			"Location": "Austin, TX",
+			"Time": "2021-2023"
+		},
+		{
+			"Title": "Software Development Intern",
+			"Company": "Dell Technologies",
+			"Location": "San Francisco, CA",
+			"Time": "2020-21"
+		},
+				{
+			"Title": "Software Development Intern",
+			"Company": "RSA Technologies",
+			"Location": "Seattle, WA",
+			"Time": "2020-21"
+		},
+				{
+			"Title": "Machine Learning Intern",
+			"Company": "Gov of India, DRDO Lastec Lab",
+			"Location": "New Delhi, India",
+			"Time": "2019-20"
+		}
+	]
+}
